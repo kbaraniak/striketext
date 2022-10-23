@@ -1,6 +1,6 @@
 {
   "name": "striketext",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Strikethrough text",
   "main": "strike.js",
   "scripts": {
@@ -23,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/kbaraniak/striketext/issues"
   },
-  "homepage": "https://github.com/kbaraniak/striketext#readme",
-  "dependencies": {
-    "var_dump": "^1.0.5"
-  }
+  "homepage": "https://github.com/kbaraniak/striketext#readme"
 }
