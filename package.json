@@ -2,9 +2,9 @@
   "name": "striketext",
   "version": "1.0.0",
   "description": "Strikethrough text",
-  "main": "main.js",
+  "main": "strike.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node example.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/kbaraniak/striketext/issues"
   },
-  "homepage": "https://github.com/kbaraniak/striketext#readme"
+  "homepage": "https://github.com/kbaraniak/striketext#readme",
+  "dependencies": {
+    "var_dump": "^1.0.5"
+  }
 }
