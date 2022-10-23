@@ -1,0 +1,27 @@
+{
+  "name": "striketext",
+  "version": "1.0.0",
+  "description": "Strikethrough text",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbaraniak/striketext.git"
+  },
+  "keywords": [
+    "strike",
+    "text",
+    "strikethrough",
+    "cross",
+    "crossuout",
+    "out"
+  ],
+  "author": "Kamil Baraniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbaraniak/striketext/issues"
+  },
+  "homepage": "https://github.com/kbaraniak/striketext#readme"
+}
